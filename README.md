@@ -9,7 +9,7 @@ I am proficient in SQL, Excel, Tableau, and Power BI, and have a good understand
 * 🌍  I'm based in Semarang
 * ✉️  You can contact me at [munazillanina123@gmail.com](mailto:munazillanina123@gmail.com)
 * 🌱 I’m currently learning Python
-* 🤝  I'm open to collaborating on Data analytics project
+* 🤝  I'm open to collaborating on data analytics project
 * 💬 Ask me about anything!
 * 😄 Pronouns: She/Her
 
