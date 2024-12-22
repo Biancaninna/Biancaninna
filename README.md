@@ -29,10 +29,3 @@ I am proficient in SQL, Excel, Tableau, and Power BI, and have a good understand
 
 <a href="http://www.github.com/Biancaninna"><img src="https://github-readme-stats.vercel.app/api?username=Biancaninna&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Biancaninna's GitHub stats" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Biancaninna/Electric-Vehicles-Data-Analysis-Tableau-Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Biancaninna&repo=Electric-Vehicles-Data-Analysis-Tableau-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Biancaninna/Adidas-Sales--by-Region-Overview-Analysis-Power-BI-Dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Biancaninna&repo=Adidas-Sales--by-Region-Overview-Analysis-Power-BI-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Biancaninna/Walmart-Sales-Overview-Analysis-Power-BI-Dashboard" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Biancaninna&repo=Walmart-Sales-Overview-Analysis-Power-BI-Dashboard&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Biancaninna/UrbanMart-Sales-by-Region-Excel-Dashboard-Version-2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Biancaninna&repo=UrbanMart-Sales-by-Region-Excel-Dashboard-Version-2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
